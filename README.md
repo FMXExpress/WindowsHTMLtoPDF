@@ -1,6 +1,6 @@
 # WindowsHTMLtoPDF
 
-Project converts from HTML to PDF. It uses the internal TWebBrowser which wraps the Microsoft Edge browser for a PDF viewer inside the application.
+Project converts from HTML to PDF. It uses the internal TWebBrowser which wraps the Microsoft Edge browser for a PDF viewer inside the application. It uses the pdflayer API to conver from HTML to PDF.
 
 The WebView2Loader.dll must be included at the same location as the EXE for the Microsoft Edge browser to function.
 
