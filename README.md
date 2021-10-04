@@ -10,6 +10,7 @@ https://getitnow.embarcadero.com/EdgeView2SDK-1.0.664.37/
 The Microsoft Edge browser can be installed from:
 https://www.microsoftedgeinsider.com/en-us/download
 
+Requires Delphi 11.
 
 Build with:
 https://www.embarcadero.com/products/delphi
